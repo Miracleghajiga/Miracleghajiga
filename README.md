@@ -1,4 +1,4 @@
- 👋 Hi, I'm Miracle Ghajiga!
+👋 Hi, I'm Miracle Ghajiga!
 
 🎯 **A Data Analyst | Problem Solver | Lifelong Learner**  
 📍 Based in Nigeria | 🌐 Exploring insights from data one project at a time
